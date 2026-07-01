@@ -1,0 +1,11 @@
+<svg width="34" height="34" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="livravoBlue" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1CC8FF"/>
+      <stop offset="1" stop-color="#007BFF"/>
+    </linearGradient>
+  </defs>
+  <path d="M14 10 H24 V44 H38 V54 H14 Z" fill="url(#livravoBlue)"/>
+  <path d="M29 13 L39 22 L32 29 L22 20 Z" fill="url(#livravoBlue)"/>
+  <path d="M42 29 H52 V54 H42 Z" fill="url(#livravoBlue)"/>
+</svg>
